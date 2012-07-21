@@ -62,7 +62,7 @@ import prefuse.visual.sort.TreeDepthItemSorter;
 
 /**
  * Demonstration of a node-link tree viewer
- *	df
+ *
  * @version 1.0
  * @author <a href="http://jheer.org">jeffrey heer</a>
  */
